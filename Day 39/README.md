@@ -1,0 +1,32 @@
+# 📅 Day 39: Greedy Algorithms, 0/1 Knapsack (Dynamic Programming)
+
+> **Status**: 🚀 Practice Day  
+> **Target Problems**: 4
+
+---
+
+## 🎯 Focus Patterns
+- **Greedy Algorithms**
+- **0/1 Knapsack (Dynamic Programming)**
+
+---
+
+## 📝 Problem Checklist
+- [ ] **Problem 1**: [Problem Name / Link](#)
+  - **Difficulty**: Easy / Medium / Hard
+  - **Approach**: 
+- [ ] **Problem 2**: [Problem Name / Link](#)
+  - **Difficulty**: Easy / Medium / Hard
+  - **Approach**: 
+- [ ] **Problem 3**: [Problem Name / Link](#)
+  - **Difficulty**: Easy / Medium / Hard
+  - **Approach**: 
+- [ ] **Problem 4**: [Problem Name / Link](#)
+  - **Difficulty**: Easy / Medium / Hard
+  - **Approach**: 
+
+
+---
+
+## 💡 Key Takeaways & Notes
+- Record your key insights, edge cases, and time/space complexity notes here.
