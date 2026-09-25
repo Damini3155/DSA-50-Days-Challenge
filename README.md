@@ -17,7 +17,7 @@ Welcome to the **50-Day DSA Mastery Repository**! This structured 50-day roadmap
 
 | Day | Focus Patterns Covered | Target Problems | Folder Link | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **Day 01** | Two Pointers | **5** | [`/Day 01`](./Day 01) | ⏳ Pending |
+| **Day 01** | Two Pointers | **5** | [`/Day 01`](./Day 01) | ✅ Done |
 | **Day 02** | Two Pointers | **5** | [`/Day 02`](./Day 02) | ⏳ Pending |
 | **Day 03** | Two Pointers, Fast & Slow Pointers | **5** | [`/Day 03`](./Day 03) | ⏳ Pending |
 | **Day 04** | Fast & Slow Pointers, Sliding Window | **5** | [`/Day 04`](./Day 04) | ⏳ Pending |
