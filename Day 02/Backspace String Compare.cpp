@@ -34,4 +34,3 @@ public:
         return true;
     }
 };
-O(n + m) O(1);
