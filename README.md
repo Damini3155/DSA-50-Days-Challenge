@@ -20,7 +20,7 @@ Welcome to the **50-Day DSA Mastery Repository**! This structured 50-day roadmap
 | **Day 01** | Two Pointers | **5** | [`/Day 01`](./Day 01) | ✅ Completed |
 | **Day 02** | Two Pointers | **5** | [`/Day 02`](./Day 02) | ✅ Completed |
 | **Day 03** | Two Pointers, Fast & Slow Pointers | **5** | [`/Day 03`](./Day 03) | ✅ Completed |
-| **Day 04** | Fast & Slow Pointers, Sliding Window | **5** | [`/Day 04`](./Day 04) | ⏳ Pending |
+| **Day 04** | Fast & Slow Pointers, Sliding Window | **5** | [`/Day 04`](./Day 04) | ✅ Completed |
 | **Day 05** | Sliding Window | **4** | [`/Day 05`](./Day 05) | ⏳ Pending |
 | **Day 06** | Sliding Window | **4** | [`/Day 06`](./Day 06) | ⏳ Pending |
 | **Day 07** | Review & Revision | **3** | [`/Day 07`](./Day 07) | 🔄 Review |
